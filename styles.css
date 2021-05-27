@@ -1,13 +1,5 @@
-.nav {
-  color: red;
-  font-family: "Montserrat", sans-serif;
-}
-
-hr {
-  color: #000;
-}
 img {
-  border: 1px solid #000;
+  border: 1px solid #cccccc;
   padding: 10px;
 }
 
