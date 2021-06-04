@@ -47,6 +47,12 @@ div {
 .abouttxt {
   text-align: justify;
 }
+
+.contactform {
+  text-align: left;
+  display: block;
+  margin: 20px;
+}
 #reachout {
   margin: 10px 0;
   display: block;
@@ -59,4 +65,12 @@ div {
 
 #reachout:hover {
   color: coral;
+}
+
+.contactbutton {
+  color: black;
+  border: 1px solid #cccccc;
+  margin: 10px 0;
+  padding: 5px 20px;
+  background-color: white;
 }
