@@ -8,7 +8,8 @@ h1 {
   font-family: "IBM Plex Sans", sans-serif;
 }
 
-span {
+span,
+div {
   font-family: "IBM Plex Sans", sans-serif;
 }
 
@@ -17,6 +18,32 @@ span {
   text-transform: uppercase;
 }
 
-.text-0 {
+.text-0,
+.text-00 {
   font-family: "IBM Plex Sans", sans-serif;
+  color: black;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+}
+
+.text-00:hover {
+  color: coral;
+}
+
+.abouttxt {
+  text-align: justify;
+}
+#reachout {
+  margin: 10px 0;
+  display: block;
+  text-align: center;
+  color: black;
+  text-decoration: none;
+  font-family: "Inknut Antiqua", serif;
+  text-transform: uppercase;
+}
+
+#reachout:hover {
+  color: coral;
 }
